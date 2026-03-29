@@ -7,4 +7,4 @@
 
 # 과제 결과물 위치
 
-* 요구사항 명세서: `docs/requirement.md`
+* 요구사항 명세서: `docs/requirements.md`
