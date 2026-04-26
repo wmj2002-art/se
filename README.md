@@ -8,3 +8,4 @@
 # 과제 결과물 위치
 
 * 과제1(요구사항 명세서): `docs/requirements.md`
+* 과제2(프로젝관리 계획서): `docs/Project_Management_Plan.md`
