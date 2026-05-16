@@ -18,7 +18,7 @@
 요구사항 정의서(v1.2)의 FR-001 ~ FR-017 및 이해관계자 기대치를 기반으로,  
 시스템 액터를 **내부 사용자 / 외부 협력자 / 시스템 관리자**로 분류하여 작성함
 
-![유스케이스 다이어그램](docs/images/usecase_diagram.png)
+![유스케이스 다이어그램](./images/usecase_diagram.png)
 
 
 ### 1.1 액터 정의
@@ -140,7 +140,7 @@
 
 요구사항에 명시된 자원 모니터링, 분산 저장, RBAC 개념을 클래스로 도출하였습니다.
 
-![클래스 다이어그램](docs/images/class_diagram.png)
+![클래스 다이어그램](./images/class_diagram.png)
 
 ### 3.1 클래스 책임 요약
 
@@ -167,7 +167,7 @@
 
 UC-002(고가용성 파일 업로드)의 시간 순서에 따른 객체 간 메시지 흐름을 표현합니다.
 
-![순차 다이어그램](docs/images/sequence_diagram.png)
+![순차 다이어그램](./images/sequence_diagram.png)
 
 ### 4.1 메시지 흐름 해설
 
