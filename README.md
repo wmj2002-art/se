@@ -11,3 +11,4 @@
 * 과제2(프로젝관리 계획서): `docs/Project_Management_Plan.md`
 * 과제3(요구사항 정의서): docs/Requirements_Definition.md
 * 과제4(요구사항 분석서): docs/Requirements_Analysis.md
+* 과제5(테스트 보고서): docs/Test_Report.md
